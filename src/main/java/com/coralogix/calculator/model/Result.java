@@ -1,5 +1,7 @@
 package com.coralogix.calculator.model;
 
+
+
 public class Result {
 
     private int result;
